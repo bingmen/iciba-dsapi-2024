@@ -10,9 +10,9 @@
 
 ## 📁 目录
 
-- `.github/workflows/dsapi-json-day.yml` — 工作流
-- `dsapi-day-json.py` — 每日更新 PY 脚本
-- `dsapi-json-2026/*.json` — 每日 JSON 对象
+- `.github/workflows/iciba-dsapi-json.yml` — 工作流
+- `iciba-dsapi-json.py` — 每日更新 PY 脚本
+- `dsapi-json-{year}/*.json` — 每日 JSON 对象
 - `dsapi-json-{year}.json` — 年度  JSON 数组
 - `dsapi-json-{year}.md` — 年度  MD 文件
 
